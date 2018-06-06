@@ -1,0 +1,38 @@
+h1,
+h2,
+h6,
+p {
+  font-family: Verdana;
+}
+body {
+  background-color: black;
+  text-align: center;
+}
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+h6 {
+  color: 16px;
+  text-align: center;
+}
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+p {
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+.footer{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  color: gray;
+  text-align: right;
+}
